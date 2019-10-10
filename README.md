@@ -1,6 +1,6 @@
 # SVM_cookietest
 
-A test for SVM algorithm with a simple kernel search over some datasets from UCI databse.
+A test for SVM algorithm with a simple kernel search used for a classification task on some datasets from UCI databse.
 
 Read the instructions from: https://github.com/LeoYu/neural-tangent-kernel-UCI
 
