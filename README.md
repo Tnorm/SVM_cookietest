@@ -21,7 +21,7 @@ The runtime of this code on my machine is not surprisingly around 50x faster com
 
 Not sure if the Wilcox test used is valid in my code since looking at the dataset names, many of them don't seem to be independent of each other.
 
-There is a huge literature for kernel search which can be probably used to boost the results. I don't have any plan for that and overfitting.
+There is a huge literature for kernel search which can be probably used to boost the results. I don't have any plan for that, cleaning the codes, or do overfitting to the datasets.
 
 The idea behind the Neural Tangent Kernel is quite beautiful. However, I believe that to show that it is superior to traditional kernel approaches the results in the paper https://arxiv.org/pdf/1910.01663.pdf is not enough to show the superiority compared to old school approaches.
 
