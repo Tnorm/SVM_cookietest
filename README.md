@@ -15,7 +15,7 @@ How to run?
 
 ----
 
-Average accuracy of my simple test is 0.8155, and the p-val is around 0.37>0.05, which means we can't the null hypo.
+Average accuracy of my simple test is 0.8155, and the p-val is around 0.37>0.05, which means we can't reject the null hypo.
 
 The runtime of this code on my machine is not surprisingly around 50x faster compared to the code base of this repo.
 
