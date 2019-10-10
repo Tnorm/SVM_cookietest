@@ -19,7 +19,7 @@ Average accuracy of my simple test is 0.8155, and the p-val is around 0.37>0.05,
 
 The runtime of this code on my machine is not surprisingly around 50x faster compared to the code base of this repo.
 
-Not sure if the Wilcox test used is valid in my code since looking at the dataset names, many of them don't seem to be independent of each other.
+Not sure if the p-val for Wilcox test used is valid since looking at the dataset names, many of them don't seem to be independent of each other.
 
 There is a huge literature for kernel search which can be probably used to boost the results. I don't have any plan for that, cleaning the codes, or do overfitting to the datasets.
 
