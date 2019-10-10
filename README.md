@@ -15,6 +15,8 @@ How to run?
 
 ----
 
+Average accuracy of my simple test is 0.8155, and the p-val is around 0.37, which rejects the null hypo.
+
 The runtime of this code on my machine is not surprisingly around 50x faster compared to the code base of this repo.
 
 Not sure if the Wilcox test used is valid in my code since looking at the dataset names, many of them don't seem to be independent of each other.
