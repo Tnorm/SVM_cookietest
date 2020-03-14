@@ -28,3 +28,10 @@ The idea behind the Neural Tangent Kernel is quite beautiful. However, I believe
 
 Best wishes. :)
 
+-----
+
+Recently found this paper which has done more detailed experiments on this.
+
+"Neural Kernels Without Tangents"
+https://arxiv.org/pdf/2003.02237.pdf
+
